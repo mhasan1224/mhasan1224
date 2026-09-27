@@ -116,11 +116,11 @@ A modern book browsing application built with Next.js, featuring book informatio
 
 <p align="left">
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mahmudul-hasan-47b9ba128)">
+<a href="https://www.linkedin.com/in/mahmudul-hasan-47b9ba128">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:mhassan@gmail.com">
+<a href="https://mail.google.com/mail/mhassan.merit@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
 </a>
 
