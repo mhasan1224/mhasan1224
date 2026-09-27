@@ -34,8 +34,8 @@ I'm a passionate web development learner focused on building modern, responsive,
 
 Currently, I'm developing my skills in React, Next.js, TypeScript, and backend technologies while working on real-world projects.
 
-📍 **Location:** `Dhaka, Bangladesh`
-📧 **Email:** `YOUR_EMAIL@gmail.com`
+📍 **Location:** `Gazipur, Dhaka, Bangladesh`
+📧 **Email:** `mhassan.merit@gmail.com`
 
 ---
 
@@ -61,13 +61,13 @@ Currently, I'm developing my skills in React, Next.js, TypeScript, and backend t
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
@@ -80,7 +80,7 @@ A responsive workout library web application where users can explore different w
 
 **Technologies:** React, JavaScript, Tailwind CSS
 
-🔗 **Live Demo:** `YOUR_LIVE_LINK`
+🔗 **Live Demo:** `https://fit-log-amber-eight.vercel.app/`
 🔗 **Repository:** `YOUR_REPOSITORY_LINK`
 
 ---
