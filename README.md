@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/mahmudul-hasan-47b9ba128">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:mhassan.merit@gmail.com">
+  <a href="mhassan.merit@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/mhasan1224">
