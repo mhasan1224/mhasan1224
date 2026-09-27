@@ -1,29 +1,137 @@
+<!-- ==================== BANNER ==================== -->
 
-<h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
-<h3 align="center">I am an **Aspiring Full Stack Web Developer** who loves building modern, scalable, and user-friendly web applications. Currently, I am deeply focused on mastering **Next.js** and the **MERN Stack** to build robust frontend and backend architectures.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhasan1224&label=Profile%20views&color=0e75b6&style=flat" alt="mhasan1224" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhasan1224" alt="mhasan1224" /></a> </p>
-
-- 🌱 I’m currently learning **HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React.js, Next.js**
-
-- 💬 Ask me about ****React, Next.js, or Frontend Layouts****
-
-- 📫 How to reach me **mhassan.merit@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahmudul hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmudul hasan" height="30" width="40" /></a>
-<a href="https://fb.com/mahmudul hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmudul hasan" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discordapp.com/users/1520452476648554620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1520452476648554620" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Mahmudul%20Hasan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhasan1224&show_icons=true&locale=en&layout=compact" alt="mhasan1224" /></p>
+<h3 align="center">
+  Front-End Developer | React & Next.js Learner
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhasan1224&show_icons=true&locale=en" alt="mhasan1224" /></p>
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/mhasan1224">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhasan1224&" alt="mhasan1224" /></p>
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate web development learner focused on building modern, responsive, and user-friendly web applications.
+
+Currently, I'm developing my skills in React, Next.js, TypeScript, and backend technologies while working on real-world projects.
+
+📍 **Location:** `Dhaka, Bangladesh`
+📧 **Email:** `YOUR_EMAIL@gmail.com`
+
+---
+
+## 🚀 Current Activities
+
+* 🔭 I’m currently exploring **Next.js**
+* 🌱 I’m learning **TypeScript and Full-Stack Web Development**
+* 💻 I’m building projects with **React and Next.js**
+* 🛠️ I’m improving my **Backend Development** skills
+* 📚 I’m practicing by building real-world web applications
+* 🎯 My goal is to become a professional **Full-Stack Developer**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🏋️ Workout Library
+
+A responsive workout library web application where users can explore different workouts and exercises.
+
+**Technologies:** React, JavaScript, Tailwind CSS
+
+🔗 **Live Demo:** `YOUR_LIVE_LINK`
+🔗 **Repository:** `YOUR_REPOSITORY_LINK`
+
+---
+
+### 📚 Book Vibe
+
+A modern book browsing application built with Next.js, featuring book information and dynamic pages.
+
+**Technologies:** Next.js, TypeScript, Tailwind CSS
+
+🔗 **Live Demo:** `YOUR_LIVE_LINK`
+🔗 **Repository:** `YOUR_REPOSITORY_LINK`
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhasan1224&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhasan1224&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasan1224&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="YOUR_DISCORD_PROFILE_URL">
+  <img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ Always Learning • Always Building • Always Improving</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! 😊
+</p>
