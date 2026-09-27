@@ -1,7 +1,11 @@
 <!-- ==================== BANNER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Mahmudul%20Hasan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img 
+    src="./assets/banner.jpg"
+    alt="Mahmudul Hasan Banner"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
