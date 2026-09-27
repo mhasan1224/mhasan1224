@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/mahmudul-hasan-47b9ba128">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mhassan.merit@gmail.com">
+  <a href="mailto:mhassan.merit@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/mhasan1224">
@@ -81,18 +81,18 @@ A responsive workout library web application where users can explore different w
 **Technologies:** React, JavaScript, Tailwind CSS
 
 🔗 **Live Demo:** `https://fit-log-amber-eight.vercel.app/`
-🔗 **Repository:** `YOUR_REPOSITORY_LINK`
+🔗 **Repository:** `https://github.com/mhasan1224/fit-log`
 
 ---
 
-### 📚 Book Vibe
+### 📚 DevStack
 
 A modern book browsing application built with Next.js, featuring book information and dynamic pages.
 
 **Technologies:** Next.js, TypeScript, Tailwind CSS
 
-🔗 **Live Demo:** `YOUR_LIVE_LINK`
-🔗 **Repository:** `YOUR_REPOSITORY_LINK`
+🔗 **Live Demo:** `https://gentle-concha-f8e9c6.netlify.app/`
+🔗 **Repository:** `https://github.com/mhasan1224/B14-A05-DevStack`
 
 ---
 
@@ -116,15 +116,15 @@ A modern book browsing application built with Next.js, featuring book informatio
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mahmudul-hasan-47b9ba128)">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:mhassan@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="YOUR_DISCORD_PROFILE_URL">
+<a href="https://discordapp.com/users/1520452476648554620">
   <img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
