@@ -19,8 +19,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:mhassan.merit@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
+</a>
   <a href="https://github.com/mhasan1224">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
@@ -120,7 +120,7 @@ A modern book browsing application built with Next.js, featuring book informatio
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://mail.google.com/mail/mhassan.merit@gmail.com">
+<a href="mailto:mhassan.merit@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
 </a>
 
