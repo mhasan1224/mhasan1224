@@ -1,7 +1,7 @@
 <!-- ==================== BANNER ==================== -->
 
 <p align="center">
-  <img 
+  <img
     src="./assets/banner.jpg"
     alt="Mahmudul Hasan Banner"
     width="100%"
@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
 
 <h3 align="center">
-  Front-End Developer | React & Next.js Learner
+  Frontend Developer | React & Next.js Learner
 </h3>
 
 <p align="center">
@@ -19,8 +19,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:mhassan.merit@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
-</a>
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
+  </a>
   <a href="https://github.com/mhasan1224">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
@@ -61,7 +61,7 @@ Currently, I'm developing my skills in React, Next.js, TypeScript, and backend t
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Tools
@@ -78,36 +78,31 @@ Currently, I'm developing my skills in React, Next.js, TypeScript, and backend t
 
 A responsive workout library web application where users can explore different workouts and exercises.
 
-**Technologies:** React, JavaScript, Tailwind CSS
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, DaisyUI, React Toastify
 
-🔗 **Live Demo:** `https://fit-log-amber-eight.vercel.app/`
-🔗 **Repository:** `https://github.com/mhasan1224/fit-log`
+🔗 **Live Demo:** https://fit-log-amber-eight.vercel.app/
+🔗 **Repository:** https://github.com/mhasan1224/fit-log
 
 ---
 
 ### 🧑‍💻 DevStack
 
-A modern book browsing application built with Next.js, featuring book information and dynamic pages.
+A responsive developer resource platform designed to showcase useful development tools, technologies, and resources in a clean and user-friendly interface.
 
-**Technologies:** Next.js, TypeScript, Tailwind CSS
+**Technologies:** React, TypeScript, Tailwind CSS, DaisyUI, React Toastify
 
-🔗 **Live Demo:** `https://gentle-concha-f8e9c6.netlify.app/`
-🔗 **Repository:** `https://github.com/mhasan1224/B14-A05-DevStack`
+🔗 **Live Demo:** https://gentle-concha-f8e9c6.netlify.app/
+🔗 **Repository:** https://github.com/mhasan1224/B14-A05-DevStack
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhasan1224&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhasan1224&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasan1224&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mhasan1224&theme=tokyonight&hide_border=true"
+    alt="Mahmudul Hasan GitHub Streak"
+  />
 </p>
 
 ---
