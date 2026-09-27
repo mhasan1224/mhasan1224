@@ -85,7 +85,7 @@ A responsive workout library web application where users can explore different w
 
 ---
 
-### 📚 DevStack
+### 🧑‍💻 DevStack
 
 A modern book browsing application built with Next.js, featuring book information and dynamic pages.
 
