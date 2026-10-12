@@ -111,12 +111,18 @@ A responsive developer resource platform designed to showcase useful development
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.shion.dev/api?username=mhasan1224&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1B2A&title_color=52B788&text_color=E0FBFC&icon_color=95D5B2" />
- <br/>
-  <img height="220" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mhasan1224&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1B2A&title_color=52B788&text_color=E0FBFC" />
+  <img
+    height="200"
+    src="https://github-readme-stats.shion.dev/api?username=mhasan1224&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1B2A&title_color=52B788&text_color=E0FBFC&icon_color=95D5B2"
+  />
   <br/>
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mhasan1224&theme=tokyonight&hide_border=true"
+    height="220"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=mhasan1224&hide_border=true&layout=compact&bg_color=0D1B2A&title_color=52B788&text_color=E0FBFC"
+  />
+  <br/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mhasan1224&background=0D1B2A&ring=52B788&fire=95D5B2&currStreakLabel=52B788&sideLabels=E0FBFC&currStreakNum=E0FBFC&sideNums=E0FBFC&dates=95D5B2&hide_border=true"
     alt="Mahmudul Hasan GitHub Streak"
   />
 </p>
