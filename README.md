@@ -15,7 +15,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahmudul-hasan-47b9ba128">
+  <a href="https://www.linkedin.com/in/mahmudul-hasan-oasel">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:mhassan.merit@gmail.com">
@@ -111,7 +111,7 @@ A responsive developer resource platform designed to showcase useful development
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/mahmudul-hasan-47b9ba128">
+<a href="https://www.linkedin.com/in/mahmudul-hasan-oasel">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
