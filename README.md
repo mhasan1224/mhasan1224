@@ -52,22 +52,34 @@ Currently, I'm developing my skills in React, Next.js, TypeScript, and backend t
 
 ## 🛠️ Skills & Technologies
 
+### Language
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript" />
+</p>
+
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-### Backend & Database
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Tools
+### Database & Cloude
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,vite,figma" />
 </p>
 
 ---
@@ -99,6 +111,10 @@ A responsive developer resource platform designed to showcase useful development
 ## 📊 GitHub Statistics
 
 <p align="center">
+  <img height="200" src="https://github-readme-stats.shion.dev/api?username=mhasan1224&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1B2A&title_color=52B788&text_color=E0FBFC&icon_color=95D5B2" />
+ <br/>
+  <img height="220" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mhasan1224&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1B2A&title_color=52B788&text_color=E0FBFC" />
+  <br/>
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=mhasan1224&theme=tokyonight&hide_border=true"
     alt="Mahmudul Hasan GitHub Streak"
